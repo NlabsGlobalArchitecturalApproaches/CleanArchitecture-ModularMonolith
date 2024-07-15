@@ -57,8 +57,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 Sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin:
 
-- **E-posta**: [your-email@example.com]
-- **LinkedIn**: [LinkedIn Profilinizin Linki]
+- **Email**: turkmvc@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/turkmvc/
 
 ---
 
