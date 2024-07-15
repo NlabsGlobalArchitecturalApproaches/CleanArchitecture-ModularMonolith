@@ -4,13 +4,13 @@
 
 ## Proje Açıklaması
 
-Bu proje, modern yazılım geliştirme süreçlerine uyumlu olarak tasarlanmış, clean architecture prensiplerine uygun ve tek katmanlı bir Modular Monolith yaklaşımını benimseyen bir projedir.
+Bu proje, modern yazılım geliştirme süreçlerine uyumlu olarak tasarlanmış, clean architecture prensiplerine uygun ve Modular Monolith yaklaşımını benimseyen bir projedir.
 
 ## Özellikler
 
 - **Clean Architecture**: Kodun sürdürülebilirliğini, test edilebilirliğini ve esnekliğini artırmak amacıyla geliştirilmiştir.
 - **Generic Repository Design Pattern Kullanımı**: Birden fazla DbContext ile çalışabilme imkanı sunarak, veri yönetimini ve entegrasyonunu daha verimli hale getirir.
-- **Tek Katmanlı Modular Monolith Mimari**: Esnek ve ölçeklenebilir çözümler sunar.
+- **Modular Monolith Mimari**: Esnek ve ölçeklenebilir çözümler sunar.
 
 ## Kurulum
 
@@ -68,13 +68,13 @@ Sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin:
 
 ## Project Description
 
-This project is designed to align with modern software development processes, adopting clean architecture principles and a single-tier Modular Monolith approach.
+This project is designed to align with modern software development processes, adopting clean architecture principles and Modular Monolith approach.
 
 ## Features
 
 - **Clean Architecture**: Developed to increase code sustainability, testability, and flexibility.
 - **Use of Generic Repository Design Pattern**: Allows working with multiple DbContexts, making data management and integration more efficient.
-- **Single-Tier Modular Monolith Architecture**: Provides flexible and scalable solutions.
+- **Modular Monolith Architecture**: Provides flexible and scalable solutions.
 
 ## Installation
 
