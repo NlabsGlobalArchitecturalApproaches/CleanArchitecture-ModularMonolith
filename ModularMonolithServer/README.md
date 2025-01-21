@@ -43,8 +43,8 @@ Projeyi seçtikten sonra istediğiniz ismi verin örneğin `eCommerce`
 - **MediatR**
 - **AutoMapper**
 - **FluentValidation**
-- **TS.Result**
-- **TS.EntityFrameworkCore.GenericRepository**
+- **Nlabs.Result**
+- **Nlabs.GenericRepository**
 
 Proje başlangıçta MSSQL ile ayarlandı. MSSQL ile devam etmek istiyorsanız `appsetting.json` dosyasında ConnectionStrings kısmını kendinize göre düzenleyin
 
