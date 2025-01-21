@@ -29,7 +29,7 @@ Ya da aşağıdaki kod bloğunu çalıştırarak kurabilirsiniz
 dotnet new install Nlabs.CleanArchitecture
 ```
 
-kurulum bittikten sonra `dotnet new list` ile VS2022 proje listesini görüntüleyip "ASP.NET Clean Architecture Solution" kısa adı "ts.multitenantserver" proje template'ini arayabilirsiniz. Eğer listede bulduysanız artık VS2022 üzerinden yeni proje oluştur deyip proje arama çubuğunda "Clean Architecture" diye arayarak bulabilirsiniz.
+kurulum bittikten sonra `dotnet new list` ile VS2022 proje listesini görüntüleyip "ASP.NET Clean Architecture Solution" kısa adı "nlabs.cleanarchitecture" proje template'ini arayabilirsiniz. Eğer listede bulduysanız artık VS2022 üzerinden yeni proje oluştur deyip proje arama çubuğunda "Clean Architecture" diye arayarak bulabilirsiniz.
 
 ![Proje Template](Resim gelecek)
 
