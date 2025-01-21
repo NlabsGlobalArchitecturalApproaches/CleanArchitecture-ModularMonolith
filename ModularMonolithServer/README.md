@@ -21,7 +21,7 @@ Proje şu anda .NET 8 versiyonunu kullanıyor. Eski versiyonlarda desteği yok.
 
 Bu proje bir template olarak NuGet package üzerinden yayımlandı. Kurduktan sonra VS2022 de yeni proje oluştur sekmenizde proje listenizde yer alacaktır.
 
-Kurmak için [NuGet (https://www.nuget.org/packages/TS.MultiTenantServer)](https://www.nuget.org/packages/TS.MultiTenantServer/) burayı ziyaret edebilirsiniz
+Kurmak için [NuGet (https://www.nuget.org/packages/NLabs.CleanArchitecture/)](https://www.nuget.org/packages/NLabs.CleanArchitecture//) burayı ziyaret edebilirsiniz
 
 Ya da aşağıdaki kod bloğunu çalıştırarak kurabilirsiniz
 
@@ -31,11 +31,11 @@ dotnet new install TS.MultiTenantServer
 
 kurulum bittikten sonra `dotnet new list` ile VS2022 proje listesini görüntüleyip "ASP.NET Clean Architecture Solution" kısa adı "ts.multitenantserver" proje template'ini arayabilirsiniz. Eğer listede bulduysanız artık VS2022 üzerinden yeni proje oluştur deyip proje arama çubuğunda "Clean Architecture" diye arayarak bulabilirsiniz.
 
-![Proje Template](https://github.com/TanerSaydam/MultiTenantServer.Template/blob/main/images/projeyibulma.png)
+![Proje Template](Resim gelecek)
 
 Projeyi seçtikten sonra istediğiniz ismi verin örneğin `eCommerce`
 
-![Proje Structure](https://github.com/TanerSaydam/MultiTenantServer.Template/blob/main/images/projestructure.png)
+![Proje Structure](Resim gelecek)
 
 ## Projede kullanılan kütüphaneler
 - **EntityFrameworkCore**
@@ -48,14 +48,14 @@ Projeyi seçtikten sonra istediğiniz ismi verin örneğin `eCommerce`
 
 Proje başlangıçta MSSQL ile ayarlandı. MSSQL ile devam etmek istiyorsanız `appsetting.json` dosyasında ConnectionStrings kısmını kendinize göre düzenleyin
 
-![Connection String](https://github.com/TanerSaydam/MultiTenantServer.Template/blob/main/images/connectionstring.png)
+![Connection String](görsel gelecek)
 
 Eğer Database değiştirmek istiyorsanız kurulu NuGet package'ini Infrastructure katmanında değiştirip connection bilgisini değiştirmelisiniz.
 
 Login metodu ve User classı projede mevcut.
 Proje çalıştığında otomatik bir admin kullanıcısı oluşturur
 
-![Create First User](https://github.com/TanerSaydam/MultiTenantServer.Template/blob/main/images/createfirstuser.png)
+![Create First User](görsel gelecek)
 
 
 
