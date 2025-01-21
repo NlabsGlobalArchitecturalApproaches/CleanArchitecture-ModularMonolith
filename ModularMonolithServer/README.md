@@ -26,7 +26,7 @@ Kurmak için [NuGet (https://www.nuget.org/packages/NLabs.CleanArchitecture/)](h
 Ya da aşağıdaki kod bloğunu çalıştırarak kurabilirsiniz
 
 ```powershell
-dotnet new install TS.MultiTenantServer
+dotnet new install Nlabs.CleanArchitecture
 ```
 
 kurulum bittikten sonra `dotnet new list` ile VS2022 proje listesini görüntüleyip "ASP.NET Clean Architecture Solution" kısa adı "ts.multitenantserver" proje template'ini arayabilirsiniz. Eğer listede bulduysanız artık VS2022 üzerinden yeni proje oluştur deyip proje arama çubuğunda "Clean Architecture" diye arayarak bulabilirsiniz.
